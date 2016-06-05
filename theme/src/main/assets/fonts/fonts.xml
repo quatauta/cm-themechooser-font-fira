@@ -32,6 +32,27 @@
     <alias name="tahoma" to="sans-serif" />
     <alias name="verdana" to="sans-serif" />
 
+    <family name="sans-serif-condensed">
+        <font weight="100" style="normal">FiraSansCondensed-Thin.otf</font>
+        <font weight="100" style="italic">FiraSansCondensed-ThinItalic.otf</font>
+        <font weight="200" style="normal">FiraSansCondensed-UltraLight.otf</font>
+        <font weight="200" style="italic">FiraSansCondensed-UltraLightItalic.otf</font>
+        <font weight="300" style="normal">FiraSansCondensed-Light.otf</font>
+        <font weight="300" style="italic">FiraSansCondensed-LightItalic.otf</font>
+        <font weight="400" style="normal">FiraSansCondensed-Regular.otf</font>
+        <font weight="400" style="italic">FiraSansCondensed-Italic.otf</font>
+        <font weight="500" style="normal">FiraSansCondensed-Medium.otf</font>
+        <font weight="500" style="italic">FiraSansCondensed-MediumItalic.otf</font>
+        <font weight="600" style="normal">FiraSansCondensed-SemiBold.otf</font>
+        <font weight="600" style="italic">FiraSansCondensed-SemiboldItalic.otf</font>
+        <font weight="700" style="normal">FiraSansCondensed-Bold.otf</font>
+        <font weight="700" style="italic">FiraSansCondensed-BoldItalic.otf</font>
+        <font weight="800" style="normal">FiraSansCondensed-Heavy.otf</font>
+        <font weight="800" style="italic">FiraSansCondensed-HeavyItalic.otf</font>
+        <font weight="900" style="normal">FiraSansCondensed-Ultra.otf</font>
+        <font weight="900" style="italic">FiraSansCondensed-UltraItalic.otf</font>
+    </family>
+
     <family name="monospace">
         <font weight="400" style="normal">FiraMono-Regular.otf</font>
         <font weight="500" style="normal">FiraMono-Medium.otf</font>
