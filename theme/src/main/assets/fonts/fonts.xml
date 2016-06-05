@@ -2,24 +2,24 @@
 <familyset version="22">
     <!-- first font is default -->
     <family name="sans-serif">
-        <font weight="100" style="normal">FiraSans-Thin.ttf</font>
-        <font weight="100" style="italic">FiraSans-ThinItalic.ttf</font>
-        <font weight="200" style="normal">FiraSans-UltraLight.ttf</font>
-        <font weight="200" style="italic">FiraSans-UltraLightItalic.ttf</font>
-        <font weight="300" style="normal">FiraSans-Light.ttf</font>
-        <font weight="300" style="italic">FiraSans-LightItalic.ttf</font>
-        <font weight="400" style="normal">FiraSans-Regular.ttf</font>
-        <font weight="400" style="italic">FiraSans-Italic.ttf</font>
-        <font weight="500" style="normal">FiraSans-Medium.ttf</font>
-        <font weight="500" style="italic">FiraSans-MediumItalic.ttf</font>
-        <font weight="600" style="normal">FiraSans-SemiBold.ttf</font>
-        <font weight="600" style="italic">FiraSans-SemiBoldItalic.ttf</font>
-        <font weight="700" style="normal">FiraSans-Bold.ttf</font>
-        <font weight="700" style="italic">FiraSans-BoldItalic.ttf</font>
-        <font weight="800" style="normal">FiraSans-Heavy.ttf</font>
-        <font weight="800" style="italic">FiraSans-HeavyItalic.ttf</font>
-        <font weight="900" style="normal">FiraSans-Ultra.ttf</font>
-        <font weight="900" style="italic">FiraSans-UltraItalic.ttf</font>
+        <font weight="100" style="normal">FiraSans-Thin.otf</font>
+        <font weight="100" style="italic">FiraSans-ThinItalic.otf</font>
+        <font weight="200" style="normal">FiraSans-UltraLight.otf</font>
+        <font weight="200" style="italic">FiraSans-UltraLightItalic.otf</font>
+        <font weight="300" style="normal">FiraSans-Light.otf</font>
+        <font weight="300" style="italic">FiraSans-LightItalic.otf</font>
+        <font weight="400" style="normal">FiraSans-Regular.otf</font>
+        <font weight="400" style="italic">FiraSans-Italic.otf</font>
+        <font weight="500" style="normal">FiraSans-Medium.otf</font>
+        <font weight="500" style="italic">FiraSans-MediumItalic.otf</font>
+        <font weight="600" style="normal">FiraSans-SemiBold.otf</font>
+        <font weight="600" style="italic">FiraSans-SemiBoldItalic.otf</font>
+        <font weight="700" style="normal">FiraSans-Bold.otf</font>
+        <font weight="700" style="italic">FiraSans-BoldItalic.otf</font>
+        <font weight="800" style="normal">FiraSans-Heavy.otf</font>
+        <font weight="800" style="italic">FiraSans-HeavyItalic.otf</font>
+        <font weight="900" style="normal">FiraSans-Ultra.otf</font>
+        <font weight="900" style="italic">FiraSans-UltraItalic.otf</font>
     </family>
 
     <!-- Note that aliases must come after the fonts they reference. -->
@@ -33,9 +33,9 @@
     <alias name="verdana" to="sans-serif" />
 
     <family name="monospace">
-        <font weight="400" style="normal">FiraMono-Regular.ttf</font>
-        <font weight="500" style="normal">FiraMono-Medium.ttf</font>
-        <font weight="700" style="normal">FiraMono-Bold.ttf</font>
+        <font weight="400" style="normal">FiraMono-Regular.otf</font>
+        <font weight="500" style="normal">FiraMono-Medium.otf</font>
+        <font weight="700" style="normal">FiraMono-Bold.otf</font>
     </family>
     <alias name="sans-serif-monospace" to="monospace" />
     <alias name="monaco" to="monospace" />
