@@ -54,9 +54,10 @@
     </family>
 
     <family name="monospace">
-        <font weight="400" style="normal">FiraMono-Regular.otf</font>
-        <font weight="500" style="normal">FiraMono-Medium.otf</font>
-        <font weight="700" style="normal">FiraMono-Bold.otf</font>
+        <font weight="300" style="normal">FiraCode-Light.otf</font>
+        <font weight="400" style="normal">FiraCode-Regular.otf</font>
+        <font weight="500" style="normal">FiraCode-Medium.otf</font>
+        <font weight="700" style="normal">FiraCode-Bold.otf</font>
     </family>
     <alias name="sans-serif-monospace" to="monospace" />
     <alias name="monaco" to="monospace" />
