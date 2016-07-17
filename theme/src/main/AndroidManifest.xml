@@ -24,6 +24,7 @@
     <meta-data android:name="org.cyanogenmod.theme.author" android:value="@string/theme_author" />
 
     <application android:hasCode="false"
+        android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/theme_name"/>
 
