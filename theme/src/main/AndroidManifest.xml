@@ -25,6 +25,7 @@
 
     <application android:hasCode="false"
         android:allowBackup="true"
+        android:fullBackupContent="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/theme_name"/>
 
